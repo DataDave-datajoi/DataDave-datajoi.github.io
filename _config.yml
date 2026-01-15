@@ -1,0 +1,5 @@
+title: DataDave
+description: Helping entrepreneurs build data-driven software solutions
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
